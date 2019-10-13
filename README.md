@@ -14,4 +14,6 @@ install pip libraries using command
 
 The overall code requires good internet connectivity to function properly otherwise an error will occur.
 
-Configure the arduino code to get the serial output which acts as an input for the python script
+Configure the arduino code to get the serial output which acts as an input for the python script.
+
+The arduino file uploaded will print value 1 to 100 which can be read by python
